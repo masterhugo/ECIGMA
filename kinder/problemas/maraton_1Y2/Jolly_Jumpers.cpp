@@ -53,6 +53,5 @@ int main(){
 		if(ban) puts("Jolly");
 		else puts("Not jolly");
 	}
-
   return 0;
 }
